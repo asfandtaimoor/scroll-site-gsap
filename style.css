@@ -59,6 +59,9 @@ body {
   overflow: hidden;
   width: 300%;
 }
+.panel-vertical-inner {
+  background-color: rgb(69, 69, 168);
+}
 
 .panel-vertical-inner .panel,
 .panel2-vertical-inner .panel {
@@ -68,4 +71,10 @@ body {
   overflow: hidden;
   display: flex;
   align-items: center;
+}
+
+.panel-horizontal,
+.panel-horizontal {
+  background-color: rgb(69, 69, 168);
+  color: white;
 }
